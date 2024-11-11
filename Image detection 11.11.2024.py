@@ -37,7 +37,6 @@ def display_text():
     global object_name
     object_name = entry.get().strip()
     root.destroy()
-    return object_name
 
 #Create a Button to validate Entry Widget
 ttk.Button(root, text= "Okay",width= 20, command = display_text).pack(pady=20)
