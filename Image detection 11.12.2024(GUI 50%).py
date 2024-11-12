@@ -32,6 +32,8 @@ w = tk.Label(root, text="Welcome to FileSearch+")
 w.pack()
 w = tk.Label(root, text="Begin by entering the object you\n wish to find in your images")
 w.pack()
+w = tk.Label(root, text="Currently, only a few objects are\n programed, such as person, car, or dog")
+w.pack()
 
 #Create an Entry widget to accept User Input
 entry=tk.Entry(root, width= 40)
