@@ -1,0 +1,4 @@
+pyinstaller --clean --distpath C:\Users\BenDa\Downloads --onedir --onefile -n FileSearch+ --add-data=C:\Users\BenDa\AppData\Local\Programs\Python\Python312\libs:_tkinter.lib --add-data=C:\Users\BenDa\scoop\apps\python\current\Lib:site-packages --windowed -i "C:\Users\BenDa\Desktop\Core\Education\PVCC Work\CSC221(2024)\FileSearch+.ico" "C:\Users\BenDa\Desktop\Core\Education\PVCC Work\CSC221(2024)\Python_Final\Image detection 11.12.2024 - Pre-Release 2.py"
+
+
+do not run
