@@ -1,6 +1,7 @@
 # Image-detection
 CSC course python project
 
+____________________________________________________________
 Required programs - 
 
 Python 3.13 - https://www.python.org/downloads/
@@ -9,6 +10,7 @@ Code editing software for running the program. Visual Studio Code is recomended,
 
 Note - Computers where OneDrive has changed the file structure have been know to be unable to run the file correctly, please use a computer without onedrive or where onedrive has not changed the file structure.
 
+____________________________________________________________
 Instructions:
 1.	Type the name of the object you want to search for.
 2.	Click "Analyze Photos for Object."
