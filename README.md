@@ -1,8 +1,12 @@
 # Image-detection
 CSC course python project
 
+Made by Hao Wu, Henry Volodin, and Jennie Cha
+
 ____________________________________________________________
-To download the program, navigate to the releases tab and click on the most recent version to download
+To download the program, navigate to the releases tab, click on the most recent version, and download the zip file.
+
+The program code is inside the file along with extra documents regarding development
 
 ____________________________________________________________
 Required programs - 
@@ -21,3 +25,7 @@ Operating Instructions:
 4.	Wait a few seconds. Once all the photos have been analyzed, the relevant photos will appear.
 
 There is a “photo sample” file available for download to test the functionality. You can try searching for terms like “person,” “cat,” “dog,” “bus,” or “car” to test how the program works. (All photos are sourced from the internet.)
+
+____________________________________________________________
+
+Thank You for trying out our program!
