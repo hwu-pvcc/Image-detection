@@ -2,9 +2,10 @@
 CSC course python project
 
 
-Commands to run before running this program
+Instructions:
+1.	Type the name of the object you want to search for.
+2.	Click "Analyze Photos for Object."
+3.	Choose a folder that contains the photos you want to search through.
+4.	Wait a few seconds. Once all the photos have been analyzed, the relevant photos will appear.
 
- - pip install torch
- - pip install ImageTk
- - pip install pathlib
- - There may be more to install, I can not remember all of them. Please contact the owners if you have issues regarding starting the program
+There is a “photo sample” file available for download to test the functionality. You can try searching for terms like “person,” “cat,” “dog,” “bus,” or “car” to test how the program works. (All photos are sourced from the internet.)
