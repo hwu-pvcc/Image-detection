@@ -2,6 +2,9 @@
 CSC course python project
 
 ____________________________________________________________
+To download the program, navigate to the releases tab and click on the most recent version to download
+
+____________________________________________________________
 Required programs - 
 
 Python 3.13 - https://www.python.org/downloads/
@@ -11,7 +14,7 @@ Code editing software for running the program. Visual Studio Code is recomended,
 Note - Computers where OneDrive has changed the file structure have been know to be unable to run the file correctly, please use a computer without onedrive or where onedrive has not changed the file structure.
 
 ____________________________________________________________
-Instructions:
+Operating Instructions:
 1.	Type the name of the object you want to search for.
 2.	Click "Analyze Photos for Object."
 3.	Choose a folder that contains the photos you want to search through.
