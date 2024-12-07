@@ -2,6 +2,7 @@
 CSC course python project
 
 Required programs - 
+
 Python 3.13 - https://www.python.org/downloads/
 
 Code editing software for running the program. Visual Studio Code is recomended, but requires a python debugger to run (Available from VSC extensions).
